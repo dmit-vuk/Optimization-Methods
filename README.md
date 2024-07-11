@@ -7,5 +7,5 @@ Optimization Methods in ML course in CMC MSU
   * __task3__: Implementation of different stochastic optimization methods (SGD, SAGA). Implementation of different adaptive optimization methods (AdaGrad, RMSProp, Adam).
 
 - __theory__ (There are theory works):
-  *__task1__: Matrix-vector differentiation. Сonvexity
-  *__task2__: Concordance, duality, CCT. Subgradient and subdifferential
+  * __task1__: Matrix-vector differentiation. Сonvexity
+  * __task2__: Concordance, duality, CCT. Subgradient and subdifferential
